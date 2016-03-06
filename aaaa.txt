@@ -7,5 +7,9 @@ af
 asd
 fdk
 
+<<<<<<< HEAD
 aaaaaaaaaaavvvvvv
+=======
+aaacccccccccc
+>>>>>>> af18188421afed495cd89e3ab64a2f4f896d5f02
 bbbbbbbbbbb
